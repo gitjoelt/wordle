@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Wordle
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a recreation of the popular game Wordle. Your goal is to guess a 5 letter word. Start typing a 5 letter word and press enter to guess it. Any letters that match the word will be highlighted in green. You have 6 guesses.
 
 ## Available Scripts
 
